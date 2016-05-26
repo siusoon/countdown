@@ -5,13 +5,13 @@ Initiated by William Wong, continued countdown machines are created through diff
 
 Original count down machine by Samson Wong and Jason Lam: http://addoilteam.hk/countdown/
 
-Wiliam Wong: Continued by Python 2.7 https://www.facebook.com/the.william.ho/posts/10153558574147036?pnref=story
+Wiliam Wong: Continued in Python 2.7 https://www.facebook.com/the.william.ho/posts/10153558574147036?pnref=story
 
-Bryan Chung: (written by Processing) https://www.facebook.com/chungbwc/posts/10153892290174475?pnref=story
+Bryan Chung: (written in Processing) https://www.facebook.com/chungbwc/posts/10153892290174475?pnref=story
 
 James Kwong: http://jjjjt.github.io/countdown/
 
-Winnie Soon: (written by PHP) http://siusoon.net/countdown/countdown.php
+Winnie Soon: (written in PHP) http://siusoon.net/countdown/countdown.php
 
 # How it works
 A counter simply counts the time difference between 1st July, 2047 and now. It displays in seconds. 
